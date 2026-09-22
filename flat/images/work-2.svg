@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="">
+  <rect width="800" height="600" fill="#FDF3EE"/>
+  <rect x="40" y="296" width="720" height="16" rx="8" fill="#FCD9C8"/>
+  <circle cx="90" cy="250" r="40" fill="#FFFFFF"/>
+  <circle cx="90" cy="250" r="16" fill="#E25822"/>
+  <circle cx="260" cy="250" r="40" fill="#FFFFFF"/>
+  <circle cx="260" cy="250" r="16" fill="#606C38"/>
+  <circle cx="430" cy="250" r="40" fill="#FFFFFF"/>
+  <circle cx="430" cy="250" r="16" fill="#F6C93D"/>
+  <circle cx="600" cy="250" r="40" fill="#FFFFFF"/>
+  <circle cx="600" cy="250" r="16" fill="#D4AF37"/>
+  <circle cx="720" cy="250" r="40" fill="#FFFFFF"/>
+  <circle cx="720" cy="250" r="16" fill="#E25822"/>
+  <rect y="460" width="800" height="140" fill="#B33E12"/>
+  <ellipse cx="90" cy="438" rx="52" ry="14" fill="#E25822"/>
+  <path d="M26 440 a64 64 0 0 0 128 0 Z" fill="#FFFFFF"/>
+  <ellipse cx="260" cy="438" rx="52" ry="14" fill="#606C38"/>
+  <path d="M196 440 a64 64 0 0 0 128 0 Z" fill="#FFFFFF"/>
+  <ellipse cx="430" cy="438" rx="52" ry="14" fill="#F6C93D"/>
+  <path d="M366 440 a64 64 0 0 0 128 0 Z" fill="#FFFFFF"/>
+  <ellipse cx="600" cy="438" rx="52" ry="14" fill="#D4AF37"/>
+  <path d="M536 440 a64 64 0 0 0 128 0 Z" fill="#FFFFFF"/>
+  <ellipse cx="720" cy="438" rx="52" ry="14" fill="#E25822"/>
+  <path d="M656 440 a64 64 0 0 0 128 0 Z" fill="#FFFFFF"/>
+</svg>
